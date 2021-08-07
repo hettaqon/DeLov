@@ -1,5 +1,4 @@
 # DeLov
 Android football application
 
-API https://www.thesportsdb.com/api.php
-SQLite
+API https://www.thesportsdb.com/api.php & SQLite
